@@ -1,0 +1,26 @@
+[
+  {
+    "slug": "steve-jobs",
+    "author": "Steve Jobs",
+    "tagline": "Deeply Inspiring",
+    "title": "Steve Jobs",
+    "text": "Steve Jobs was one of the greatest innovators and visioniaries of our time. Reading about his drive, conviction and way of thinking is one of the most inspiring things I have read so far. He was ahead of his time and his thoughts on what maters in life something i can identify very much with. This book is a must read!",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/81VStYnDGrL.jpg"
+  },
+  {
+    "slug": "Genius",
+    "author": "James Gleick",
+    "tagline": "Big Fan",
+    "title": "Genius",
+    "text": "James Gleicks life of Richard Feynman comes highly recommended to anyone interested in one of the greatest scholars and physicists this world has seen. Feynmans is one of my favorite thinkers and I really enjoy his way of explaining extremly complicated concepts. Try his Six Easy Pieces and you know what I mean. ",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/51wL1-JJHiL._SX319_BO1,204,203,200_.jpg"
+  },
+  {
+    "slug": "digital-minimalism",
+    "author": "Cal Newport ",
+    "tagline": "Life changing",
+    "title": "Digital Minimalism",
+    "text": "If you saw The Social Dilemma on Netflix, you know how bad and addictive our digital behaviour is to us. But have you changed anything after watching it? I havent until I read this book. Learn about digital minimalism and I promise your quality of live will improve dramatically!",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/31GWeOjGd5L._SX324_BO1,204,203,200_.jpg"
+  }
+]
